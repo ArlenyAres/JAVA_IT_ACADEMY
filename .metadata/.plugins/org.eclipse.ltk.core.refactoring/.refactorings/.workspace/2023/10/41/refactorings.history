@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;M7_3_Arleny_Medina_sumaArray_ParImpar&apos; to &apos;M7_3_6_Arleny_Medina_sumaArray_ParImpar&apos;&#x0A;- Original element: &apos;M7_3_Arleny_Medina_sumaArray_ParImpar&apos;&#x0A;- Renamed element: &apos;M7_3_Arleny_Medina_sumaArray_ParImpar&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;M7_3_Arleny_Medina_sumaArray_ParImpar&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=M7_3_Arleny_Medina_sumaArray_ParImpar" name="M7_3_6_Arleny_Medina_sumaArray_ParImpar" references="true" stamp="1697130684263" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;scanner&apos; in &apos;M8_Ex4_Arleny_Medina.eliminarAvion(...)&apos; to &apos;sc&apos;&#x0A;- Original project: &apos;M8_Ex4_Arleny_Medina_Java2&apos;&#x0A;- Original element: &apos;M8_Ex4_Arleny_Medina.eliminarAvion(Avion[], int, Scanner).scanner&apos;&#x0A;- Renamed element: &apos;scanner&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;scanner&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{M8_Ex4_Arleny_Medina.java[M8_Ex4_Arleny_Medina~eliminarAvion~\[QAvion;~I~QScanner;@scanner!2778!2792!2786!2792!QScanner;!0!true" name="sc" references="true" stamp="1697920514372" version="1.0"/>
+</session>
